@@ -1,0 +1,448 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Binarysearchonsearchspace",
+            "request": "launch",
+            "mainClass": "Lecture11.Binarysearchonsearchspace",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Backtracking",
+            "request": "launch",
+            "mainClass": "Lecture18.Backtracking",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "twoDarray",
+            "request": "launch",
+            "mainClass": "Lecture12.twoDarray",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Repaircars",
+            "request": "launch",
+            "mainClass": "Lecture09.Repaircars",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "koko",
+            "request": "launch",
+            "mainClass": "Lecture09.koko",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "magneticballs",
+            "request": "launch",
+            "mainClass": "Lecture09.magneticballs",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Binarysearchonsearchspace",
+            "request": "launch",
+            "mainClass": "Lecture09.Binarysearchonsearchspace",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "TargetSumTriplets",
+            "request": "launch",
+            "mainClass": "Assignment4.TargetSumTriplets",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "TargetSumPairs",
+            "request": "launch",
+            "mainClass": "Assignment4.TargetSumPairs",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciPattern4",
+            "request": "launch",
+            "mainClass": "Assignment1.FibonacciPattern4",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramidPattern",
+            "request": "launch",
+            "mainClass": "Assignment1.HalfPyramidPattern",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "ManmohanLovesPatterns1",
+            "request": "launch",
+            "mainClass": "Assignment1.ManmohanLovesPatterns1",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternMountain",
+            "request": "launch",
+            "mainClass": "Assignment1.PatternMountain",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternNumberLadder",
+            "request": "launch",
+            "mainClass": "Assignment1.PatternNumberLadder",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternNumbersStars1",
+            "request": "launch",
+            "mainClass": "Assignment1.PatternNumbersStars1",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternNumbersStars2",
+            "request": "launch",
+            "mainClass": "Assignment1.PatternNumbersStars2",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternTriangle",
+            "request": "launch",
+            "mainClass": "Assignment1.PatternTriangle",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternwithZeros",
+            "request": "launch",
+            "mainClass": "Assignment1.PatternwithZeros",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "Assignment1.SquarePattern",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "DownwardTrianglePattern",
+            "request": "launch",
+            "mainClass": "Assignment2.DownwardTrianglePattern",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "GaneshasPattern",
+            "request": "launch",
+            "mainClass": "Assignment2.GaneshasPattern",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "HollowDiamondPattern6",
+            "request": "launch",
+            "mainClass": "Assignment2.HollowDiamondPattern6",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "HollowRhombusPattern",
+            "request": "launch",
+            "mainClass": "Assignment2.HollowRhombusPattern",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "MirrorStarPattern5",
+            "request": "launch",
+            "mainClass": "Assignment2.MirrorStarPattern5",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternDoubleSidedArrow",
+            "request": "launch",
+            "mainClass": "Assignment2.PatternDoubleSidedArrow",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternHourGlass",
+            "request": "launch",
+            "mainClass": "Assignment2.PatternHourGlass",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternInvertedHourGlass",
+            "request": "launch",
+            "mainClass": "Assignment2.PatternInvertedHourGlass",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternMagic",
+            "request": "launch",
+            "mainClass": "Assignment2.PatternMagic",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PatternRhombus",
+            "request": "launch",
+            "mainClass": "Assignment2.PatternRhombus",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "Assignment3.BinaryToDecimal",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "ChewbaccaandNumber",
+            "request": "launch",
+            "mainClass": "Assignment3.ChewbaccaandNumber",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "Assignment3.GCD",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "IsArmstrongNumber",
+            "request": "launch",
+            "mainClass": "Assignment3.IsArmstrongNumber",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "Assignment3.LCM",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PascalTriangle1",
+            "request": "launch",
+            "mainClass": "Assignment3.PascalTriangle1",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "PascalTriangle3",
+            "request": "launch",
+            "mainClass": "Assignment3.PascalTriangle3",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingGame",
+            "request": "launch",
+            "mainClass": "Assignment3.ShoppingGame",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Sumoddevenplaceddigits",
+            "request": "launch",
+            "mainClass": "Assignment3.Sumoddevenplaceddigits",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "Assignment4.IntersectionOfTwoArrays",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicatesfromSortedArray",
+            "request": "launch",
+            "mainClass": "Assignment4.RemoveDuplicatesfromSortedArray",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Sort0and1",
+            "request": "launch",
+            "mainClass": "Assignment4.Sort0and1",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Squaresofsortedarray",
+            "request": "launch",
+            "mainClass": "Assignment4.Squaresofsortedarray",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "SumofTwoArrays",
+            "request": "launch",
+            "mainClass": "Assignment4.SumofTwoArrays",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Codechef2",
+            "request": "launch",
+            "mainClass": "Codechef2",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Kadanealgo",
+            "request": "launch",
+            "mainClass": "Kadanealgo",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Helloworld",
+            "request": "launch",
+            "mainClass": "Lecture00.Helloworld",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Lecture02.Operators",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "Lecture02.loops",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "problems",
+            "request": "launch",
+            "mainClass": "Lecture02.problems",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "Lecture03.pattern",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Lecture04.Armstrong",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Lecture05.Arrays",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Lecture09.BinarySearch",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Lowerbound",
+            "request": "launch",
+            "mainClass": "Lecture09.Lowerbound",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "Upperbound",
+            "request": "launch",
+            "mainClass": "Lecture09.Upperbound",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "countoccurances",
+            "request": "launch",
+            "mainClass": "Lecture09.countoccurances",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "NGER",
+            "request": "launch",
+            "mainClass": "NGER",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "armstrong$armstrong",
+            "request": "launch",
+            "mainClass": "armstrong$armstrong",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "datatype",
+            "request": "launch",
+            "mainClass": "datatype",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "dryrun",
+            "request": "launch",
+            "mainClass": "dryrun",
+            "projectName": "riddh2024_f850a20"
+        },
+        {
+            "type": "java",
+            "name": "rotate",
+            "request": "launch",
+            "mainClass": "rotate",
+            "projectName": "riddh2024_f850a20"
+        }
+    ]
+}

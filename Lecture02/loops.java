@@ -4,9 +4,9 @@ public class loops {
     public static void main(String[] args) {
 
         
-        for(int i =10,;i>=0;i--){
+        for(int i =10;i>=0;i--){
 
-     System.out.println(j);
+     System.out.println(i);
         }
         
         
