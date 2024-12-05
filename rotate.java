@@ -1,4 +1,4 @@
-public class rotate {
+/*public class rotate {
     static void display(int[] arr){
         for(int i:arr)
             System.out.print(i+" ");
@@ -49,4 +49,4 @@ for(int i=0;i<k;i++){
     num1[i]=temp[k-i-1];
 }
 for(int i=0;i<n-k;i++){
-    num1[k+i]=temp[n-i-1];
+    num1[k+i]=temp[n-i-1];*/

@@ -11,7 +11,7 @@ public class RemoveDuplicatesfromSortedArray {
             arr1[i]=sc.nextInt();}
         
         int k=0;
-        int e=0;
+        //int e=0;
         int[] ind=new int[n];
         for(int i=0;i<n;i++){
             for(int j=i;j<n-1;j++){

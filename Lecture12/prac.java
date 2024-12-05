@@ -1,6 +1,6 @@
 package Lecture12;
 
-public class prac {
+public class prac {}
    /*  public static void main(String[] args) {
         public boolean checkvalid(char[][] arr,int i,int j) {
             //Row & Col
@@ -41,7 +41,7 @@ public class prac {
     }
     
 
-*/
+
 public static void main(String[] args) {
     int matrix[]= {(1,2,3),(4,5,6),(7,8,9)};
     int n=matrix.length;
@@ -56,5 +56,5 @@ public static void main(String[] args) {
 }
 
 
-}
+}*/
 
